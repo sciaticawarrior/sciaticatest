@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}assets/rockswater.jpg" title="Profile Picture" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+This site is meant to be an interesting resource for those living with Sciatica/herniated disks/pinched nerves/lower back pain. I myself have suffered from a protuding disk in L5 and L4. This causes pain to constantly raidiate down my left leg. Certain styles of sitting, lying down, stretching, and even standing for too long can cause the pain and nerve to swell up. I have been suffering from this problem for about 7 years now and I have learned a thing or two about pain management. Believe me I have tried a lot of treatments short of actual surgery. I have found some that work and others that don't at all. As a result I decided to create this website to share some of the knowledge I have gained over the years with others that may be suffering from a similar problem. I hope this helps!
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+I plan to post information on workouts for people with sciatica, treatment methods that have worked for me, sleeping and sitting, clothing and useful gedgets I have bought over the years, as well as it's effects on the mind. 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+On thing I want to make very clear is that I am in no way, shape or form a medical professional. I have never studied medicine nor do I plan to. The advice I post on this site come from my own experiences and online research. Please remember to talk to your doctor before trying anything I recommend on this site if you have the slightest incling that you could cause harm to yourself. 
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+[Click here](http://sciaticawarrior.github.io/sciaticaworkout/) to return to the main page.  Enjoy! 
+
+
