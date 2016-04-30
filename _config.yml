@@ -7,16 +7,16 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Living life with Sciatica
+subtitle: "Tips and Tricks for living with Sciatica"
+email: sciaticawarrior@gmail.com
+name: Sciatica Warrior
 description: > 
-  A simple yet classy theme for your Jekyll website or blog.
-baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
-cover: "assets/header_image.jpg"
-logo: "assets/logo.png"
+ This is a blog about Sciatica
+baseurl: "/sciaticaworkout/" # the subpath of your site, e.g. /blog/
+url: "http://sciaticawarrior.github.io" # the base hostname & protocol for your site
+cover: "assets/guyondock.jpg"
+logo: "assets/newlogo.png"
 
 # Build settings
 markdown: kramdown
