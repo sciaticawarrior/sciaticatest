@@ -55,6 +55,13 @@ You can choose to do all of the exercises in one or break up into multiple days.
 ### Yoga
 
 * Standing Half Forward Bend
-* 
+* Modified Sun Salution Sequence
+* Downward Dog
+* Upward Dog
+* Mountain Pose
+* Warrior 1
+* Warrior 2
+* Hip flexor stretch
+* Warrior 3
 
 With each workout make sure to take it slow. Each person's condition and comfort zone may be different. If something hurts then skip it or take the time to build up to it. 
