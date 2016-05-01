@@ -22,6 +22,7 @@ So over the years I've developed the following workout to try and stay in shape.
 * Straight Leg Hip Flexor 
 * Standing Quad Stretch (Again check on this one before doing)
 * Wall Calf Stretch
+* Arm Circles
 * 10 to 15 Pushups (Modify to the amount you are comfortable with)
 
 You can choose to do all of the exercises in one or break up into multiple days. I usually assign a different day of the week for upper body, core, yoga and cardio.
@@ -53,6 +54,7 @@ You can choose to do all of the exercises in one or break up into multiple days.
 
 ### Yoga
 
-*
+* Standing Half Forward Bend
+* 
 
 With each workout make sure to take it slow. Each person's condition and comfort zone may be different. If something hurts then skip it or take the time to build up to it. 
