@@ -30,7 +30,29 @@ You can choose to do all of the exercises in one or break up into multiple days.
 
 * Crunches with legs raised (these are very light crunches. Barely move your body off the ground. I have hurt myself before bu pulling myself up too much. Take some time figure out your confort zone on this one.)
 * Kneeling Rear Leg Raises
+* Planks
+* Side Planks with leg raises
+* Leg raise hold (90 degrees)
+* superman pose
+* Table tops
+* Kneeling side leg raise
+* Pilates imprint
+* Plank leg raises
 * 
 
+### Upper body
+
+* Pushups - Regular
+* Lying bicpeps curls with bands
+* Pushups - Wide
+* Lying Front Deltid Raises with bands
+* Pushups - Triangle
+* kneeling Lat Pull Down with bands
+* Pike Pushups
+* Forarm to Hand Planks
+
+### Yoga
+
+*
 
 With each workout make sure to take it slow. Each person's condition and comfort zone may be different. If something hurts then skip it or take the time to build up to it. 
