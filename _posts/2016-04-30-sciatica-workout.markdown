@@ -34,12 +34,11 @@ You can choose to do all of the exercises in one or break up into multiple days.
 * Planks
 * Side Planks with leg raises
 * Leg raise hold (90 degrees)
-* superman pose
+* Superman pose
 * Table tops
 * Kneeling side leg raise
 * Pilates imprint
 * Plank leg raises
-* 
 
 ### Upper body
 
