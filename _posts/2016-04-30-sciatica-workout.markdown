@@ -63,5 +63,7 @@ You can choose to do all of the exercises in one or break up into multiple days.
 * Warrior 2
 * Hip flexor stretch
 * Warrior 3
+* Half Knees-to-Chest Pose
+* 
 
 With each workout make sure to take it slow. Each person's condition and comfort zone may be different. If something hurts then skip it or take the time to build up to it. 
