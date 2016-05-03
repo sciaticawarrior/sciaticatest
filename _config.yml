@@ -41,11 +41,11 @@ disqus_shortname: sciaticawarrior
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: 
-    desc: ""
+  - cat: Welcome
+    desc: "welcome post"
 
-  - cat: 
-    desc: ""
+  - cat: Sciatica Workout
+    desc: "posts about sciatica workout"
 
 # Social icons and sharing options
 #
