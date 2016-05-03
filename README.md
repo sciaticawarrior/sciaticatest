@@ -1,6 +1,5 @@
 ## Sciatica Warrior Blog
 
-hr
 
 This Site is a blog for people with Sciatica. The blog can be found here: (http://sciaticawarrior.github.io/sciaticaworkout/)
 
