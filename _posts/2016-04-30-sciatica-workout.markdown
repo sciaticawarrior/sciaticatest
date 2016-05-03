@@ -65,8 +65,18 @@ You can choose to do all of the exercises in one or break up into multiple days.
 * Half Knees-to-Chest Pose
 * Reclining Hand-to-Big-Toe Pose (pump foot)
 * Eye-of-the-Needle Pose
+* Butterfly or Frog Pose
 * Cat and Cow Pose
 * Pigeon
 * Child's Pose
+
+### Cardio
+Running is definately a No No. This can put a lot of pressure on your back. 
+
+* Biking. I do this on my commute to work. I have tried a few cycling classes as well. Make sure to adjust your seat and handle bars so it is comfortable to your lower back.
+* Swimming (certain strokes can irritate your back so make sure ask your doctor. I may write a different post about this)
+* Walking
+* Piyo or Pilates (only certain videos and exercises. I have found these to be really great videos)
+* Take the stairs whenever possible. 
 
 With each workout make sure to take it slow. Each person's condition and comfort zone may be different. If something hurts then skip it or take the time to build up to it. 
