@@ -62,7 +62,7 @@ Three Repitions
 * Warrior 2
 * Warrior 3
 * Modified Sun Salution Sequence
-⋅⋅* Mountain Pose
+** Mountain Pose
 ⋅⋅* Upward Salute
 ⋅⋅* Half Standing Forward Bend
 ⋅⋅* Four-Limbed Staff Pose
