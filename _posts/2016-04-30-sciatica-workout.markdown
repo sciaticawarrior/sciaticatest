@@ -42,32 +42,45 @@ You can choose to do all of the exercises in one or break up into multiple days.
 
 ### Upper body
 
+Three Repitions
+1st Rotation:
 * Pushups - Regular
 * Lying bicpeps curls with bands
 * Pushups - Wide
 * Lying Front Deltid Raises with bands
 * Pushups - Triangle
-* kneeling Lat Pull Down with bands
+
+2nd Rotation:
+* Kneeling Lat Pull Down with bands
 * Pike Pushups
 * Forarm to Hand Planks
 
 ### Yoga
 
-* Standing Half Forward Bend
-* Modified Sun Salution Sequence
 * Mountain Pose
 * Warrior 1
 * Warrior 2
 * Warrior 3
+* Modified Sun Salution Sequence
+..* Mountain Pose
+..* Upward Salute
+..* Half Standing Forward Bend
+..* Four-Limbed Staff Pose
+..* Upward-Facing Dog Pose
+..* Downward-Facing Dog Pose
+..* Half Standing Forward Bend
+..* Upward Salut
+..* Mountain Pose
 * Hip flexor stretch
 * Downward Dog
-* Upward Dog
+* Downward Dog with leg lift (closed Hip)
+* Downward Dog with leg lift (Open Hip)
+* Pigeon
+* Cat and Cow Pose
+* Eye-of-the-Needle Pose
 * Half Knees-to-Chest Pose
 * Reclining Hand-to-Big-Toe Pose (pump foot)
-* Eye-of-the-Needle Pose
 * Butterfly or Frog Pose
-* Cat and Cow Pose
-* Pigeon
 * Child's Pose
 
 ### Cardio
