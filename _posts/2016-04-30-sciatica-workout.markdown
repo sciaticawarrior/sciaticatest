@@ -29,7 +29,7 @@ You can choose to do all of the exercises in one or break up into multiple days.
 
 ### Core
 
-* Crunches with legs raised (these are very light crunches. Barely move your body off the ground. I have hurt myself before bu pulling myself up too much. Take some time figure out your confort zone on this one.)
+* Crunches with legs raised (these are very light crunches. Barely move your body off the ground. I have hurt myself before but pulling myself up too much. Take some time figure out your confort zone on this one.)
 * Kneeling Rear Leg Raises
 * Planks
 * Side Planks with leg raises
@@ -44,6 +44,7 @@ You can choose to do all of the exercises in one or break up into multiple days.
 
 Three Repitions
 1st Rotation:
+
 * Pushups - Regular
 * Lying bicpeps curls with bands
 * Pushups - Wide
