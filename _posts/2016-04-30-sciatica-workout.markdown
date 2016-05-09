@@ -62,15 +62,15 @@ Three Repitions
 * Warrior 2
 * Warrior 3
 * Modified Sun Salution Sequence
-** Mountain Pose
-⋅⋅* Upward Salute
-⋅⋅* Half Standing Forward Bend
-⋅⋅* Four-Limbed Staff Pose
-⋅⋅* Upward-Facing Dog Pose
-⋅⋅* Downward-Facing Dog Pose
-⋅⋅* Half Standing Forward Bend
-⋅⋅* Upward Salut
-⋅⋅* Mountain Pose
+  * Mountain Pose
+  * Upward Salute
+  * Half Standing Forward Bend
+  * Four-Limbed Staff Pose
+  * Upward-Facing Dog Pose
+  * Downward-Facing Dog Pose
+  * Half Standing Forward Bend
+  * Upward Salut
+  * Mountain Pose
 * Hip flexor stretch
 * Downward Dog
 * Downward Dog with leg lift (closed Hip)
