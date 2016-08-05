@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sciatica Workout"
-date:   2016-08-04 09:34:59
+date:   2016-04-30 11:34:59
 author: Sciatic Warrior
 categories: workout
 tags: sciatica workout health
