@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Sciatica Workout"
+title:  "Sleeping with Sciatica"
 date:   2016-08-05 08:39:59
 author: Sciatic Warrior
 categories: sleeping
 tags: sciatica health sleep
-cover: "ahttps://hd.unsplash.com/uploads/1412433710756bfa9ec14/d568362b"
+cover: "/assets/d568362b.jpg"
 ---
 
 So sleeping is one of the most frustrating parts of having sciatica. On nights when my sciatic nerve is flared up I hardly ever get a goods night sleep.
