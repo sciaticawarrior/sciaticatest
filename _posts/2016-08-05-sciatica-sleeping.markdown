@@ -15,7 +15,7 @@ helps reduce the pain. Sleeping on my left side gets uncomfortable very quickly 
 wieght shifted on my right side also helps reduce the pain. Lying facedown is possible when my feet and/or part of my legs are hanging off the bed. This causes a slight arch on my back
 that doesn't cause me pain. Another thing that helps me is to sleep with a pillow directly underneath my lower back. This takes some of the pressure off the nerve. 
 
-Bedding
+*Bedding*
 
 I owned a very nice queen size bed that had a large pillow top you could just sink into. Unfortunately, the softness made for poor support on my lower back.
 I tried many beds and did a lot of shopping. I had read that firmer beds would help. So I went out and bought a really firm temperpedic type bed.
@@ -24,7 +24,8 @@ I lost a good amount of money on that return. What I ended up doing was taking a
 was a medium firm type bed. It worked  like a charm and I still have it. So in terms of beds, I would recommend a medium-firm bed. One that can provide
 your lower back with enough support. 
 
-Stretches
+*Stretches*
+
 There are a few stretches I end up doing before going to sleep and if I ever get woken up by the pain.
 
 * Leg-Up Hamstring Stretch and foot pulse
