@@ -88,7 +88,7 @@ Three Repitions
 ### Cardio
 Running is definately a No No. This can put a lot of pressure on your back. 
 
-* Biking. I do this on my commute to work. I have tried a few cycling classes as well. Make sure to adjust your seat and handle bars so it is comfortable to your lower back.
+* Biking. I do this on my commute to work. I have tried a few cycling classes as well. Make sure to adjust your seat and handle bars so it is comfortable for your lower back.
 * Swimming (certain strokes can irritate your back so make sure ask your doctor. I may write a different post about this)
 * Walking
 * Piyo or Pilates (only certain videos and exercises. I have found these to be really great videos)
