@@ -2,15 +2,15 @@
 layout: post
 title:  "Sciatica Workout"
 date:   2016-04-30 11:34:59
-author: Sciatic Warrior
+author: Sciatica Warrior
 categories: workout
 tags: sciatica workout health
 cover: "assets/hatha-yoga.jpg"
 ---
 
-For years I struggled to figure what the best exercises and stretches would not cause my sciatic nerve to flare up. Before the sciatica problems began I was very big on lifting weights, martial arts, fitness classes and track and field type sports. These were some pretty heavy type type of exercises. However, once I began with leg and lower back pain I found that I could no longer do many of these activities and certainly not lift heavy weights. Also, the bulky muscles would put more weight on my lowerback and nerve. This was very distressing to me since physical fitness was always a big priority in my life and all of a sudden I couldn't lift anymore. I read through numerous articles and asked a number physicians about how I could still workout. Most of them gave me the same advice, MAKE YOUR CORE STRONGER. If your core is strong than you are likely to have less pain since less strain is on your spine to support the rest of your body. The focus of my workout became less about building up my upper body and more about strengthening my core. 
+For years I struggled to figure what the best exercises and stretches would not cause my sciatic nerve to flare up. Before the sciatica problems began I was very big on lifting weights, martial arts, fitness classes and track and field type sports. These were some pretty heavy type type of exercises. However, once I began with leg and lower back pain I found that I could no longer do many of these activities and certainly not lift heavy weights. Also, the bulky muscles would put more weight on my lowerback and sciatic nerve. This was very distressing to me since physical fitness was always a big priority in my life and all of a sudden I couldn't lift anymore. I read through numerous articles and asked a number physicians about how I could still workout. Most of them gave me the same advice, MAKE YOUR CORE STRONGER. If your core is strong than you are likely to have less pain since less strain is on your spine to support the rest of your body. The focus of my workout became less about building up my upper body and more about strengthening my core. 
 
-So over the years I've developed the following workout to try and stay in shape.
+So over the years I've developed the following workout/ exercises for sciatica to try and stay in shape. It's broken up into a few sections: warm-up, core, upper body, yoga and cardio.
 
 ### Warm up
 
@@ -71,7 +71,7 @@ Three Repitions
   * Upward-Facing Dog Pose
   * Downward-Facing Dog Pose
   * Half Standing Forward Bend
-  * Upward Salut
+  * Upward Salute
   * Mountain Pose
 * Hip flexor stretch
 * Downward Dog
@@ -86,7 +86,7 @@ Three Repitions
 * Child's Pose
 
 ### Cardio
-Running is definately a No No. This can put a lot of pressure on your back. 
+Running is definately a No No. This can put a lot of pressure on your lower back. 
 
 * Biking. I do this on my commute to work. I have tried a few cycling classes as well. Make sure to adjust your seat and handle bars so it is comfortable for your lower back.
 * Swimming (certain strokes can irritate your back so make sure ask your doctor. I may write a different post about this)
