@@ -9,7 +9,7 @@ cover: "assets/asct7up3yde-julia-caesar.jpg"
 ---
 
 
-# Yoga Routines
+# Yoga Routines for Sciatica
 
 Last year I wrote an article on a sciatica workout I found to be very useful. This time I wanted to focus exclusively on yoga. I have been practicing yoga for the last two years in an attempt help manage my sciatica nerve pain. Overall, it has been very effective at pain management. Like I mentioned in the about section, I have suffered from sciatica, leg and lower back pain, bulging disk for about 8 years now. I have tried several types of treatments and I want to share my experiences with anyone who may be in a similar situation. The follow yoga routines are great for stretching and strengthening my core. Through my own research, talking with doctors and yoga instructors I have found that strengthening my core and reducing tightness in my hip, glutes, hamstrings and lower back really does help manage sciatica. 
 
