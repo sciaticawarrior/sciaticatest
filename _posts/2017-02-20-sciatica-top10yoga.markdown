@@ -33,7 +33,7 @@ This stretch is another good one I can do straight from my bed or on the floor/m
 ## 4. Downward dog
 My favorite stretch by far. It’s another hamstring stretch that works like a charm. However, this stretch did take some practice to loosen up my tight hamstrings when I first started. A nice trick to this stretch is to bend one of my knees at a time. I also make sure that my ears are right between my biceps. As always my back remains straight and I don’t let my ribcage stickout. Over time I aim to have my heels to eventually touch the ground. 
 
-![alt text](/assets/Prasarita Padottanasana.jpg)
+![alt text](/assets/downwarddog1.jpg)
 
 ## 5. Pigeon
 Another fantastic stretch. This one focuses on my glutes and outer hip. If my pain is starting from my buttocks then this is definitely a go to stretch. I always remember to keep my body directly over my knee and quad. It’s easy to lean to one side or other but I try to resist this crave. Its another stretch that will take some time to master but it is definitely worth doing. Simply doing downward dog and this stretch before bed has a made a huge difference for my sleep quality. 
