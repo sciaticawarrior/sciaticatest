@@ -18,7 +18,7 @@ Note: In all of these stretches I make sure to keep my back straight and chest o
 ## 1. Wide-Legged Forward Bend
 This is a great stretch to start with. I start by bending forward and trying to put my palms on the floor. If this stretch is too much I will keep my hands on my ankles, hips or thighs. Regardless of how I do it I make sure my back is straight and not slouched. This is important for all of the stretches. After I have stretched the center for at least 30 seconds I reach my arms to the right leg. Then, I move them back to the center and finish by reaching towards my left leg for at least 30 seconds. When I walk my hands over I do so without getting up. If done correctly, the wide-legged forward bend provides a fantastic hamstring stretch.
 
-<img src="/assets/Prasarita Padottanasana.jpg">
+<img src="assets/Prasarita Padottanasana.jpg">
 
 ## 2. Child’s pose
 This is a classic stretch that is pretty easy for anyone to do. The point of child’s pose is to stretch my spine and back muscles. It is great for my lower back, lats, and upper back. I do this stretch after any type of exercise. Also, if I want to focus more on my lower back I can put my fists under my forehead instead of stretching them out. I’ve sometimes done this stretch in the middle of the night on my bed when my sciatic nerve was preventing me from sleeping. It is highly recommended.
