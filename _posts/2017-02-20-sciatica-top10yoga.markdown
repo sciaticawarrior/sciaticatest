@@ -69,35 +69,35 @@ I have found these stretches to be very useful for providing some sciatic pain r
 
 I have also provided a complete yoga sequence that incorporates all of these stretches. I can do them individually but if I want to take a few minutes after a workout or just before going to bed I do this whole sequence.
 
-##Full Sequence
+## Full Sequence
 
-*Upward Salute
-*Mountain pose
-*Standing half forward bend
-*Wide-Legged Forward Bend
-*Center, right and left
-*Standing half forward bend
-*Table pose
-*Cat pose
-*Table pose
-*Child’s pose
-*Downward dog (hold)
-*High lunge (right)
-*Downward dog
-*High lunge (left)
-*Downward dog
-*Pigeon pose (right)
-*Downward dog
-*Pigeon pose (left)
-*Downward dog
-*Child’s pose
-*Bound Angle pose
-*Fire log pose (both sides)
-*Corpse pose with knees bent
-*Reclining Hand-to-Big-Toe Pose
-*Reclining cow face pose or eye of the needle pose (both side)
-*Windshield wiper twist with foot over leg (both sides)
-*Corpse pose
+* Upward Salute
+* Mountain pose
+* Standing half forward bend
+* Wide-Legged Forward Bend
+* Center, right and left
+* Standing half forward bend
+* Table pose
+* Cat pose
+* Table pose
+* Child’s pose
+* Downward dog (hold)
+* High lunge (right)
+* Downward dog
+* High lunge (left)
+* Downward dog
+* Pigeon pose (right)
+* Downward dog
+* Pigeon pose (left)
+* Downward dog
+* Child’s pose
+* Bound Angle pose
+* Fire log pose (both sides)
+* Corpse pose with knees bent
+* Reclining Hand-to-Big-Toe Pose
+* Reclining cow face pose or eye of the needle pose (both side)
+* Windshield wiper twist with foot over leg (both sides)
+* Corpse pose
 
 Let me know what you think and feel free to check out my other post about [sciatica workouts](http://sciaticawarrior.github.io/sciaticaworkout/workout/2016/04/30/sciatica-workout.html).
 
