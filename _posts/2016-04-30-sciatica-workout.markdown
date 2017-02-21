@@ -85,6 +85,8 @@ Three Repitions
 * Butterfly or Frog Pose
 * Child's Pose
 
+Check out my post on the top [ten yoga poses for sciatica relief](http://sciaticawarrior.github.io/sciaticaworkout/workout/2017/02/20/sciatica-top10yoga.html).
+
 ### Cardio
 Running is definately a No No. This can put a lot of pressure on your lower back. 
 
