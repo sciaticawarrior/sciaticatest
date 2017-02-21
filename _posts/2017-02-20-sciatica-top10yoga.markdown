@@ -9,7 +9,7 @@ cover: "assets/yoga-940359_1920.jpg"
 ---
 
 
-# Top 10 Yoga poses for immediate sciatica relief
+# Top 10 Yoga Poses for Immediate Sciatica Relief
 
 I have suffered with sciatica, pinched nerve, low back and leg pain for 8 years now. Over the years I have tried numerous treatments for pain reduction and found that certain yoga poses really work. I narrowed down a few stretches that provided my swollen sciatic nerve and left leg immediate relief. Often my pain was caused from doing rigorous high impact exercise I shouldn’t have been doing (like running long distances). Other times the pain came at night when I was sleeping on a really soft bed. So over the years I found the following 10 stretches to be ideal for getting some immediate relief. These poses focus mainly on stretching out the hips, hamstrings, glutes and lower back. 
 
@@ -18,7 +18,7 @@ Note: In all of these stretches I make sure to keep my back straight and chest o
 ## 1. Wide-Legged Forward Bend
 This is a great stretch to start with. I start by bending forward and trying to put my palms on the floor. If this stretch is too much I will keep my hands on my ankles, hips or thighs. Regardless of how I do it I make sure my back is straight and not slouched. This is important for all of the stretches. After I have stretched the center for at least 30 seconds I reach my arms to the right leg. Then, I move them back to the center and finish by reaching towards my left leg for at least 30 seconds. When I walk my hands over I do so without getting up. If done correctly, the wide-legged forward bend provides a fantastic hamstring stretch.
 
-<img src="assets/Prasarita Padottanasana.jpg">
+<img src="sciaticaworkout/assets/Prasarita Padottanasana.jpg">
 
 ## 2. Child’s pose
 This is a classic stretch that is pretty easy for anyone to do. The point of child’s pose is to stretch my spine and back muscles. It is great for my lower back, lats, and upper back. I do this stretch after any type of exercise. Also, if I want to focus more on my lower back I can put my fists under my forehead instead of stretching them out. I’ve sometimes done this stretch in the middle of the night on my bed when my sciatic nerve was preventing me from sleeping. It is highly recommended.
