@@ -3,7 +3,11 @@ layout: page
 title: "Posts"
 permalink: /posts/
 ---
-
+<script>
+	setTimeout(function() {
+		window.location.href = "http://www.sciaticawarrior.com/sciatica-workout/";
+	}, 3000);
+</script>
 {% for category in site.categories %}
 	{% capture cat %}{{ category | first }}{% endcapture %}
 	<h2>{{ cat | capitalize }}</h2>
