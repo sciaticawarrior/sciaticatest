@@ -6,6 +6,8 @@ author: Sciatica Warrior
 categories: workout
 tags: sciatica workout health
 cover: "assets/hatha-yoga.jpg"
+redirect_to:
+  - http://www.sciaticawarrior.com/sciatica-workout/
 ---
 
 
