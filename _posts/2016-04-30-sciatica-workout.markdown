@@ -1,12 +1,19 @@
 ---
 layout: post
 title:  "Sciatica Workout"
-date:   2016-04-30 11:34:59
+date:   2019-01-19 11:06:59
 author: Sciatica Warrior
 categories: workout
 tags: sciatica workout health
 cover: "assets/hatha-yoga.jpg"
 ---
+
+<script>
+setTimeout(function() {
+  window.location.href = "http://www.sciaticawarrior.com";
+}, 3000);
+</script>
+UPDATE: I have moved this blog to the following site: www.sciaticawarrior.com. You will be automatically forwarded to the site. 
 
 For years I struggled to figure what the best exercises and stretches would not cause my sciatic nerve to flare up. Before the sciatica problems began I was very big on lifting weights, martial arts, fitness classes and track and field type sports. These were some pretty heavy type type of exercises. However, once I began with leg and lower back pain I found that I could no longer do many of these activities and certainly not lift heavy weights. Also, the bulky muscles would put more weight on my lowerback and sciatic nerve. This was very distressing to me since physical fitness was always a big priority in my life and all of a sudden I couldn't lift anymore. I read through numerous articles and asked a number physicians about how I could still workout. Most of them gave me the same advice, MAKE YOUR CORE STRONGER. If your core is strong than you are likely to have less pain since less strain is on your spine to support the rest of your body. The focus of my workout became less about building up my upper body and more about strengthening my core. 
 
